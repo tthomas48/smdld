@@ -1,7 +1,7 @@
 smdld
 =====
 
-smdld is a simple PHP command line utility to download and backup smugmug galleries. 
+SmugMug image downloader (smdld) is a simple PHP command line utility to download and backup smugmug galleries. 
 
 It currently operates anonymously so it can only download public images.
 
@@ -17,4 +17,3 @@ That's it! Run smdld and you'll be prompted with the gallery to download. Downlo
 with sub-galleries will download all sub-galleries. 
 
 smdld uses [phpSmug](http://phpsmug.com/docs) to do the API heavy lifting.
-
