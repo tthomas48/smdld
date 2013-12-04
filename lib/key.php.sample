@@ -1,2 +1,4 @@
 <?php
 $API_KEY = "";
+$APP_NAME = "";
+$NICKNAME = "";
