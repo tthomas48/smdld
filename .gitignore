@@ -1,0 +1,5 @@
+bin
+Download
+vendor
+composer.lock
+lib/key.php
