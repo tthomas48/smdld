@@ -1,8 +1,8 @@
 {
     "require": {
-      "wp-cli/php-cli-tools": "dev-master"
+      "wp-cli/php-cli-tools": "dev-master",
+        "lildude/phpsmug": "^4.1"
 
     },
-	"classmap": ["lib"]
-    },
+	  "classmap": ["lib"]
 }
